@@ -1,1 +1,1 @@
-# Korean_Food_Image_Classification2
+# Korean_Food_Image_Classification
